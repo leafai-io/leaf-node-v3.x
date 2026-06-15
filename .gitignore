@@ -4,6 +4,7 @@
 .vscode/launch.json
 .vscode/ipch
 .claude
+.history
 .DS_Store
 tools/.env
 docs/
