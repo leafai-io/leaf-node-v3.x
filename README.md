@@ -1,4 +1,6 @@
-# Leaf Node
+# Leaf Node 3.1
+
+Leaf AI is an independent, open-source project. If you find it useful, you can support its continued development at [Leaf AI Support](https://leafai.io/support.html).
 
 The Leaf Node is an open-source environmental 
 monitoring and control device built on the 
